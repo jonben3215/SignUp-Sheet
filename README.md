@@ -3,7 +3,7 @@
 #How To run:
 * compile with g++ name.cpp
 * For mac: ./a.out
-* For windows: 
+* For windows: ./aout.exe
 
 #OutPut:
   * Once you run the excutable file, follow the prompt. 
